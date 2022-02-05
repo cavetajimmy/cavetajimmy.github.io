@@ -50,7 +50,7 @@ params:
   customCSS: false
 
   favicon: "/images/fav.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: "A high performance hugo theme for personal portfolio and blog Jimmy probando como es."
 
   # home
   disable_home: false
